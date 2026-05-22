@@ -1,3 +1,8 @@
+## 👤 Developer
+
+**Sumil Dholakiya**
+
+For questions, feedback, or support regarding this hotel management system, please feel free to reach out.
 # MERN Hotel Management
 
 A full-stack hotel management system built using the MERN stack (MongoDB, Express, React, Node.js).
