@@ -2,20 +2,6 @@
 
 A full-stack hotel management system built using the MERN stack (MongoDB, Express, React, Node.js).
 
-## Demo
-
-Live url: [visit](https://mern-hotel-management-indol.vercel.app/)
-
-```bash
-# Admin User
-email: admin@site.com
-password: 123456
-
-# Guest user
-email: user@site.com
-password: 123456
-```
-
 ## Project Structure
 
 - **client/**: Frontend of the project (React + Vite)
